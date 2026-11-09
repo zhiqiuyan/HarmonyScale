@@ -1,0 +1,22 @@
+# DevEco / hvigor 构建产物与缓存
+.hvigor/
+build/
+oh_modules/
+node_modules/
+*.hap
+*.hsp
+*.har
+*.app
+*.log
+
+# 本机工具链配置（含 SDK 绝对路径，各机器不同）
+local.properties
+
+# IDE / 操作系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 误生成的空文件
+nul

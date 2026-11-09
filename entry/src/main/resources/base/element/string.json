@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "蓝牙体重秤测量与 BMI 管理"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "蓝牙体重秤主界面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "轻秤"
+    },
+    {
+      "name": "reason_access_bluetooth",
+      "value": "需要蓝牙权限以连接您的体重秤并读取测量数据"
+    },
+    {
+      "name": "reason_location",
+      "value": "需要位置权限以扫描附近的蓝牙体重秤"
+    }
+  ]
+}
